@@ -5,6 +5,9 @@
 [submodule "metrosp"]
 	path = metrosp
 	url = https://github.com/viniciusoike/metrosp
+[submodule "realestatebr"]
+	path = realestatebr
+	url = https://github.com/viniciusoike/realestatebr
 [submodule "trendseries"]
 	path = trendseries
 	url = https://github.com/viniciusoike/trendseries
