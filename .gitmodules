@@ -2,9 +2,21 @@
 	path = .registry
 	url = https://github.com/viniciusoike/viniciusoike.r-universe.dev
 	branch = HEAD
+[submodule "benviplot"]
+	path = benviplot
+	url = https://github.com/viniciusoike/benviplot
+[submodule "claudeplot"]
+	path = claudeplot
+	url = https://github.com/viniciusoike/claudeplot
 [submodule "ekioplot"]
 	path = ekioplot
 	url = https://github.com/viniciusoike/ekioplot
+[submodule "ggconsulting"]
+	path = ggconsulting
+	url = https://github.com/viniciusoike/ggconsulting
+[submodule "infosigasp"]
+	path = infosigasp
+	url = https://github.com/viniciusoike/infosigasp
 [submodule "metrosp"]
 	path = metrosp
 	url = https://github.com/viniciusoike/metrosp
