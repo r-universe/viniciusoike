@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/viniciusoike/viniciusoike.r-universe.dev
 	branch = HEAD
+[submodule "ekioplot"]
+	path = ekioplot
+	url = https://github.com/viniciusoike/ekioplot
 [submodule "metrosp"]
 	path = metrosp
 	url = https://github.com/viniciusoike/metrosp
