@@ -1,0 +1,10 @@
+{
+  "id": 141160673,
+  "created_at": "2026-06-18T16:56:11.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["benviplot", "realestatebr", "stratar", "trendseries", "viniciusoike.r-universe.dev", "ekioplot", "metrosp", "ggconsulting", "claudeplot", "infosigasp"]
+}
