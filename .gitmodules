@@ -11,6 +11,9 @@
 [submodule "ekioplot"]
 	path = ekioplot
 	url = https://github.com/viniciusoike/ekioplot
+[submodule "ekiotable"]
+	path = ekiotable
+	url = https://github.com/viniciusoike/ekiotable
 [submodule "ggconsulting"]
 	path = ggconsulting
 	url = https://github.com/viniciusoike/ggconsulting
